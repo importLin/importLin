@@ -27,7 +27,7 @@ author:
   name             : "Haiwei LIN"
   pronouns         : # example: "she/her"  
   bio              : "See you in the Major Leagues."
-  location         : "Chiba, Japan"
+  location         : "Japan"
   employer         : "Chiba University"
   uri              : # URL
   email            : "None" 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

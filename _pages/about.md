@@ -11,7 +11,7 @@ This is Haiwei LIN (カイイ リン). Currently, I am a Ph.D. student at the Gr
 
 ## Publications
 
-### Journals
+### Journal Articles
 
 - **Haiwei Lin**, Shoko Imaizumi, and Hitoshi Kiya, “Privacy-Preserving ConvMixer Without Any Accuracy Degradation Using Compressible Encrypted Images,” Information, vol.15, no.723, November 2024.
 
